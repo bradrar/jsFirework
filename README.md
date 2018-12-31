@@ -1,5 +1,5 @@
 # jsFirework
-##Celebrating new year with a bang!
+## Celebrating new year with a bang!
 
 Happy new year everyone!
 
